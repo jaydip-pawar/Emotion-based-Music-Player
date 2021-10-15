@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252056753494",
+    "project_id": "mb-player-eec74",
+    "storage_bucket": "mb-player-eec74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252056753494:android:e6774322f6e9aae08cf2f7",
+        "android_client_info": {
+          "package_name": "com.pawarsproduction.mb_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252056753494-mnvrfr32609015u3br2pv6nda4afanii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhZJFK0-Ibs7GCEdV5eb48-XCwVLo0muY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252056753494-mnvrfr32609015u3br2pv6nda4afanii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
